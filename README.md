@@ -45,4 +45,3 @@ A **full stack AI-powered web application** that helps users prepare for intervi
 
 ---
 
-## 🚀 Getting Started
