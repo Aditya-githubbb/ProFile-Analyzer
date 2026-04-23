@@ -1,4 +1,4 @@
-# 🚀 ProFile: Gen AI Interview Preparation Platform
+# 🚀 ProFile: Gen AI Resume Analyzer
 
 A **full stack AI-powered web application** that helps users prepare for interviews by analyzing resumes, identifying skill gaps, and generating intelligent interview questions using Generative AI.
 
